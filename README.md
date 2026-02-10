@@ -97,8 +97,6 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 4. Push to your fork: `git push origin feature-name`.
 5. Create a pull request on the original repository.
 
-## License
-This project is licensed under the [MIT License](https://github.com/snykk/Laracoffee/blob/master/LICENSE).
 
 ## UI
 
@@ -151,5 +149,4 @@ This project is licensed under the [MIT License](https://github.com/snykk/Laraco
 ##### Submit a Review
 !["Submit a Review"](/storage/assets/User/submit_review.PNG)
 
-## In Summary
- Feel free to explore the application and give it a try yourself. If you have any questions or encounter any issues, please don't hesitate to reach out. Your feedback is greatly appreciated. Happy exploring!!!
+
